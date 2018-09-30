@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ArrayOfString>
+    <string>+A</string>
+    <string>0</string>
+    <string>*B</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>+A</string>
+    <string>1</string>
+    <string>*B</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>+A</string>
+    <string>0</string>
+    <string>C</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>C</string>
+    <string>0</string>
+    <string>C</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>C</string>
+    <string>1</string>
+    <string>*B</string>
+  </ArrayOfString>
+</ArrayOfArrayOfString>

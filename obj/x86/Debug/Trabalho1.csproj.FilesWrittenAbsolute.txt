@@ -1,0 +1,13 @@
+/home/thiago/Área de Trabalho/Trabalho1/Trabalho1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/thiago/Área de Trabalho/Trabalho1/Trabalho1/obj/x86/Debug/Trabalho1.gtk-gui.gui.stetic
+/home/thiago/Área de Trabalho/Trabalho1/Trabalho1/bin/Debug/Trabalho1.exe.mdb
+/home/thiago/Área de Trabalho/Trabalho1/Trabalho1/bin/Debug/Trabalho1.exe
+/home/thiago/Área de Trabalho/Trabalho1/Trabalho1/obj/x86/Debug/Trabalho1.exe
+/home/thiago/Área de Trabalho/Trabalho1/Trabalho1/obj/x86/Debug/Trabalho1.exe.mdb
+/home/thiago/Área de Trabalho/FormaisECompiladores-master/Trabalho1/Trabalho1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/thiago/Área de Trabalho/FormaisECompiladores-master/Trabalho1/Trabalho1/obj/x86/Debug/Trabalho1.gtk-gui.gui.stetic
+/home/thiago/Área de Trabalho/FormaisECompiladores-master/Trabalho1/Trabalho1/obj/x86/Debug/Trabalho1.exe
+/home/thiago/Área de Trabalho/FormaisECompiladores-master/Trabalho1/Trabalho1/obj/x86/Debug/Trabalho1.exe.mdb
+/home/thiago/Área de Trabalho/FormaisECompiladores-master/Trabalho1/Trabalho1/bin/Debug/Trabalho1.exe.config
+/home/thiago/Área de Trabalho/FormaisECompiladores-master/Trabalho1/Trabalho1/bin/Debug/Trabalho1.exe.mdb
+/home/thiago/Área de Trabalho/FormaisECompiladores-master/Trabalho1/Trabalho1/bin/Debug/Trabalho1.exe
